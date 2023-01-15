@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Induction
+  - wok
+  - RiceTop
+  - RiceLid
+  - Knife
+  - chicken
+  - bowl
+  - onionStalk
+  - gingerSlice
+  - riceCooker
+  - garlicSlice
+  - rice
+  - cucumber
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - player
+  - hand
+  - objects
+  - bowl
+  - bowlItems
+  - ricebowl
+  - riceItems
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
