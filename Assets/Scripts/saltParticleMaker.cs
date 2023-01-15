@@ -12,7 +12,6 @@ public class saltParticleMaker : MonoBehaviour
     // Start is called before the first frame update
     private void Start()
     {
-        XRGrabInteractable grabble = GetComponent<XRGrabInteractable>();
         saltShaker.GetComponent<ParticleSystem>().Stop(true, ParticleSystemStopBehavior.StopEmitting);
     }
 
